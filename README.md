@@ -1,6 +1,6 @@
-## Chega mais World,
+## E aí World!?
 
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="400" height="300" />
 
 
 ### Desejando sempre:
