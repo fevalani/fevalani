@@ -32,7 +32,7 @@
 <img align="left" alt="Typescript" width="53px" src="./assets/typescript.svg" />
 <!--Typescript Icon by Icon Mafia on Iconscout-->
 
-<img align="left" alt="React" width="53px" src="./assets/react.svg" /><br>
+<img align="left" alt="React" width="53px" src="./assets/react.svg" /><br><br><br>
 
 <!--Typescript Icon by Icon Mafia on Iconscout-->
 
