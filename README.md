@@ -4,7 +4,7 @@
 
 
 ### Desejando sempre:
-- 🌱 Aprender e codar
+- 🌱 Aprender e desenvolver
 - 👯 Procurar novos desafios
 - 💬 Conversar, pode vir de verdade!
 - 😄 Diversidade e Respeito: Ele/Dele
