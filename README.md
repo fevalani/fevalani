@@ -1,10 +1,10 @@
-## Chega mais World,
+## E aí World!?
 
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="400" height="300" />
 
 ### Desejando sempre:
 
-- 🌱 Aprender e codar
+- 🌱 Aprender e desenvolver
 - 👯 Procurar novos desafios
 - 💬 Conversar, pode vir de verdade!
 - 😄 Diversidade e Respeito: Ele/Dele
@@ -16,7 +16,7 @@
 
 <br />
 
-### Languages and Tools:
+### Linguagens e Ferramentas:
 
 <img align="left" alt="Visual Studio Code" width="60px" src="./assets/visual-studio-code.svg" />
 
